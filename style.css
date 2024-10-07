@@ -1,0 +1,114 @@
+/* navbar */
+
+
+#btn{
+    background-color: green;
+    
+}
+
+#btn:hover{
+    background-color: rgb(177, 231, 54);
+}
+
+
+#logos{
+    width: 60px;
+    height: 55px;
+    border: solid;
+    border-radius: 50%;
+}
+
+
+#drop{
+
+    color: white;
+}
+#carouselExampleIndicators{
+    padding: 5px 5px 5px 5px;
+}
+
+/* feature */
+#ic{
+    
+    
+    justify-content: center;
+    
+    
+}
+
+#fbd{
+
+    border: solid rebeccapurple 2px;
+}
+h5{
+    display: flex;
+    justify-content:center;
+    padding-top: 5px;
+}
+
+
+#form1{
+padding-bottom: 80px;    
+}
+body{
+    padding: 2%;
+    background-color: rgb(226, 223, 235);
+}
+
+/* growth */
+#gro{
+    justify-content: center;
+}
+
+#frm{
+    justify-content: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    width: 50%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    font-size: 20px;
+    color: rebeccapurple;
+}
+.card:hover{
+    color: red;
+
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    
+}
+
+
+#insta:hover{
+    font-size: 30px;
+}
+
+#insta{
+    font-size: 25px;
+    color: rgb(200, 25, 212);
+
+}
+
+#what{
+    font-size: 25px;
+    color: green;
+}
+#fb{
+    font-size: 25px;
+    color: rgb(32, 32, 223);
+}
+#teli{
+    font-size: 25px;
+    color: rgb(6, 97, 215);
+}
+#lin{
+
+    font-size: 25px;
+    color: rgba(25, 25, 196, 0.918);
+}
